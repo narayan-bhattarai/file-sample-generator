@@ -82,7 +82,7 @@ export class AppComponent {
     const url = window.URL.createObjectURL(sampleData);
     const link = document.createElement('a');
     link.href = url;
-    link.download = `Sample_file`;
+    link.download = "Sample_file";
     link.click();
 
     window.URL.revokeObjectURL(url);
