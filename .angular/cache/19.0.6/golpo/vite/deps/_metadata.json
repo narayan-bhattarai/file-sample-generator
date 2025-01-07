@@ -1,0 +1,43 @@
+{
+  "hash": "bf4a6bf9",
+  "configHash": "55def1fc",
+  "lockfileHash": "7132e98d",
+  "browserHash": "762ccce9",
+  "optimized": {
+    "@angular/core": {
+      "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "3acb9258",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "b19044c4",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "cff21361",
+      "needsInterop": false
+    },
+    "pdf-lib": {
+      "src": "../../../../../../node_modules/pdf-lib/es/index.js",
+      "file": "pdf-lib.js",
+      "fileHash": "8207fd9c",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-CSOOGMSO": {
+      "file": "chunk-CSOOGMSO.js"
+    },
+    "chunk-RUUV3NKL": {
+      "file": "chunk-RUUV3NKL.js"
+    },
+    "chunk-TXDUYLVM": {
+      "file": "chunk-TXDUYLVM.js"
+    }
+  }
+}
